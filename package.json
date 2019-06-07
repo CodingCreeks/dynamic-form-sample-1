@@ -1,19 +1,18 @@
 {
-  "name": "angular-dynamicforms-blogarticle",
+  "name": "angular",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "rxjs": "5.4.2",
-    "core-js": "2.4.1",
-    "zone.js": "0.8.12",
-    "@angular/core": "4.3.6",
-    "@angular/http": "4.3.6",
-    "@angular/forms": "4.3.6",
-    "@angular/common": "4.3.6",
-    "@angular/router": "4.3.6",
-    "@angular/compiler": "4.3.6",
-    "@angular/platform-browser": "4.3.6",
-    "@angular/platform-browser-dynamic": "4.3.6"
+    "@angular/common": "^8.0.0",
+    "@angular/compiler": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "@angular/forms": "^8.0.0",
+    "@angular/platform-browser": "^8.0.0",
+    "@angular/platform-browser-dynamic": "^8.0.0",
+    "@angular/router": "^8.0.0",
+    "core-js": "2",
+    "rxjs": "^6.5.2",
+    "zone.js": "^0.9.1"
   },
   "scripts": {
     "ng": "ng",
